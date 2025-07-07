@@ -1,4 +1,4 @@
-// For  , While ,  Do while 
+// For  , While ,  Do while , for...of	(Loop over arrays) , for...in	(Loop over object properties)
 
 // for (let int ;  condition ; inc/dec) {
     
